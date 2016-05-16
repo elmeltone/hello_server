@@ -1,0 +1,17 @@
+{
+  "name": "hello_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "Mcihael J Melton",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "^3.21.2",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
